@@ -1,2 +1,2 @@
 # ChatPDF
-https://github.com/elliott-chong/chatpdf-yt
+Original author：https://github.com/elliott-chong/chatpdf-yt
